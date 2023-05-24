@@ -5,12 +5,12 @@ const Hero = () => {
   return (
     <div className="w-[100%] min-h-[calc(100vh-5px)] flex justify-center bg-hero bg-no-repeat bg-cover relative bg-fixed ">
       <div className="absolute w-full h-[100%] opacity-[0.7] bg-black "></div>
-      <div className="w-[90%] flex z-10">
-        <div className=" w-[50%] flex flex-col mt-20 ">
+      <div className="w-[90%] flex justify-center   z-10">
+        <div className="  flex flex-col mt-[150px]  text-center items-center">
           <div className="mt-[100px]  mb-5 text-7xl font-extrabold text-white">
             Passion For Design
           </div>
-          <div className="my-5 text-l w-[400px] text-white">
+          <div className="my-5 text-l w-[400px] text-white font-bold">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos optio
             et illo ex eius placeat deleniti at ea nemo quod.
           </div>

@@ -5,7 +5,7 @@ import Card from "../../Components/Static/Card";
 
 const Cards = () => {
   return (
-    <div className="w-full h-[70vh] flex justify-center items-center">
+    <div className="w-full h-[70vh] flex justify-center items-center ">
       <div className="w-[96%] flex justify-around items-center">
         <Card
           iccon={icon}
