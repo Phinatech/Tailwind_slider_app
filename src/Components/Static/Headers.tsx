@@ -2,7 +2,7 @@
 
 const Headers = () => {
   return (
-    <div className="w-full h-[60px] flex justify-center items-center bg-white z-50 fixed bg-gray-200">
+    <div className="w-full h-[60px] flex justify-center items-center bg-white z-50 fixed ">
       <div className=" w-[90%]  flex justify-between items-center ">
         <div className=" font-extrabold text-2xl text-gray-500">Cypto</div>
         <div className="flex items-center text-base font-bold text-gray-500 cursor-pointer ">
